@@ -10,3 +10,16 @@ In this project, you have the ability to add, remove, or modify your to-do items
 
 
 <h3><a href="https://sancz0pansa.github.io/todo-app-project/#/" target=”_blank”>Demo Link</a></h3>
+
+<h2>Tech stack:</h2>
+
+- Create React App
+
+- Java Script ES6+
+
+- TypeScript
+
+- JSX
+
+- TypeScript
+
