@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/todo-app-project/static/css/main.dbcd5bd3.css",
-    "main.js": "/todo-app-project/static/js/main.3a60ea89.js",
+    "main.css": "/todo-app-project/static/css/main.9c1c5d2c.css",
+    "main.js": "/todo-app-project/static/js/main.657d5b41.js",
     "static/media/fa-solid-900.ttf": "/todo-app-project/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
     "static/media/fa-brands-400.ttf": "/todo-app-project/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
     "static/media/fa-solid-900.woff2": "/todo-app-project/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
@@ -11,11 +11,11 @@
     "static/media/fa-v4compatibility.ttf": "/todo-app-project/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
     "static/media/fa-v4compatibility.woff2": "/todo-app-project/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
     "index.html": "/todo-app-project/index.html",
-    "main.dbcd5bd3.css.map": "/todo-app-project/static/css/main.dbcd5bd3.css.map",
-    "main.3a60ea89.js.map": "/todo-app-project/static/js/main.3a60ea89.js.map"
+    "main.9c1c5d2c.css.map": "/todo-app-project/static/css/main.9c1c5d2c.css.map",
+    "main.657d5b41.js.map": "/todo-app-project/static/js/main.657d5b41.js.map"
   },
   "entrypoints": [
-    "static/css/main.dbcd5bd3.css",
-    "static/js/main.3a60ea89.js"
+    "static/css/main.9c1c5d2c.css",
+    "static/js/main.657d5b41.js"
   ]
 }
