@@ -21,5 +21,3 @@ In this project, you have the ability to add, remove, or modify your to-do items
 
 - JSX
 
-- TypeScript
-
